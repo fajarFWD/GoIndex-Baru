@@ -2,17 +2,15 @@ var authConfig = {
   "siteName": "MY DRIVE", // Site Name
   "version" : "2.3", // version
   "basic_auth": false, // change to Basic authentication
-  "user": "123",
-  "pass": "123",
   "theme" : "material", // material  classic
   "main_color": "white",
   "accent_color": "white",
   "dark_theme": false, //make sure you set main color
   "search": false,
-      "client_id": "202264815644.apps.googleusercontent.com",
-    "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
-    "refresh_token": ", // 授权 token
-    "root": "root" // 根目录ID
+  "client_id": "202264815644.apps.googleusercontent.com",
+  "client_secret": "X4Z3ca8xfWDb1Voo-F9a7ZxJ",
+  "refresh_token": ", // 授权 token
+  "root": "root" // 根目录ID
 };
 var gd;
 var html = `
