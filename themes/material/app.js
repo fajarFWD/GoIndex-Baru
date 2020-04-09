@@ -65,7 +65,7 @@ function nav(path) {
 	}
 	html += `<div class="mdui-toolbar-spacer"></div>
     <a href="https://t.me/t123x" target="_blank" class="mdui-btn mdui-btn-icon mdui-ripple mdui-ripple-white" mdui-tooltip="{content: 'GoIndex Drive on Github'}">
-<img scr="https://image.flaticon.com/icons/svg/2111/2111644.svg"/>
+<img scr="https://image.flaticon.com/icons/svg/2111/2111644.svg">
     </a>`;
 	$('#nav').html(html);
 }
